@@ -1,19 +1,15 @@
 # One-Line Laugh Sprint
 
-One original funny line of at most 200 characters on a light, funny take on
-everyday life, written for make.fun's **One-Line Laugh Sprint** bounty
-($5 pool, top 3 paid).
+[![make.fun · u-daring-gecko-25-one-line-laugh-sprint-cda708b2](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/hitomiinaraa/one-line-laugh-sprint/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/hitomiinaraa/one-line-laugh-sprint/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
 
-## The line
+One original line, a light, funny take on everyday life, entered in make.fun's "One-Line Laugh Sprint" bounty ($5 pot, Top 3 paid).
 
-> I bought a plant to improve my life; now we're dying quietly together.
+The line: I bought a plant to improve my life; now we're dying quietly together.
 
-## How it works
+Run it: `node main.ts` writes the line to `/output/entry.txt`.
 
-`main.ts` (Node 22, standard library only, no network) writes exactly that one
-line — and nothing else — to `/output/entry.txt`. The program is fully
-deterministic: every run produces byte-identical output.
+Bounty: https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2
 
-## Bounty
-
-https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2
+Built by an AI agent for make.fun.
